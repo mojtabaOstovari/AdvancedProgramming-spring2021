@@ -99,7 +99,7 @@ This course introduces the fundamentals of computer programming using the Java p
   <tr>
   </tr>
    <tr>
-    <td><center><a href="sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
+    <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
     <td><center><a href="muht2035@gmail.com">Mohammad Torabi</a></center></td>
     <td><center><a href="rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
     <td><center><a href="zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
