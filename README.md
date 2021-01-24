@@ -84,17 +84,17 @@ This course introduces the fundamentals of computer programming using the Java p
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="" alt="" border='3' height='140' width='140' /></td>
+    <td colspan="2"><img src=".\Images\S.png" alt="" border='3' height='160' width='120' /></td>
     <td colspan="3"><center><a href="https://nastaraan.github.io/test2/">Mojtaba Ostovari</a><br>PhD Candidate in Computer Science<br>Sharif University of Technology</center>       </td>
   </tr>
   <tr>
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src=".\Images\A.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\B.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\C.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\D.png" alt="" border='3' height='160' width='120' /></td>
   </tr>
   <tr>
   </tr>
@@ -105,18 +105,32 @@ This course introduces the fundamentals of computer programming using the Java p
     <td><center><a href="">D</a></center></td>
   </tr>
   <tr>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src=".\Images\E.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\F.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\G.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\H.png" alt="" border='3' height='160' width='120' /></td>
   </tr>
   <tr>
   </tr>
    <tr>
-    <td><center><a href="">A</a></center></td>
-    <td><center><a href="">B</a></center></td>
-    <td><center><a href="">C</a></center></td>
-    <td><center><a href="">D</a></center></td>
+    <td><center><a href="">E</a></center></td>
+    <td><center><a href="">F</a></center></td>
+    <td><center><a href="">G</a></center></td>
+    <td><center><a href="">H</a></center></td>
+  </tr>
+  <tr>
+    <td><img src=".\Images\I.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\J.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\K.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\L.png" alt="" border='3' height='160' width='120' /></td>
+  </tr>
+  <tr>
+  </tr>
+   <tr>
+    <td><center><a href="">I</a></center></td>
+    <td><center><a href="">J</a></center></td>
+    <td><center><a href="">K</a></center></td>
+    <td><center><a href="">L</a></center></td>
   </tr>
 </table>
 
