@@ -85,7 +85,7 @@ This course introduces the advanced computer programming using the Java programm
   </tr>
   <tr>
     <td colspan="2"><img src=".\Images\S.png" alt="" border='3' height='160' width='120' /></td>
-    <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>PhD Candidate in Computer Science<br>Sharif University of Technology</center>       </td>
+    <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a></center>       </td>
   </tr>
   <tr>
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
