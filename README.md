@@ -84,7 +84,7 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <td colspan="1"><center><img src=".\Images\" alt="" border='1' height='210' width='210' /></center></td>
+    <td colspan="1"><center><img src=".\Images\S.jpeg" alt="" border='1' height='210' width='210' /></center></td>
     <td colspan="4"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
   <tr>
@@ -133,8 +133,6 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">L</a></center></td>
   </tr>
 </table>
-
-
 
 # Lectures
 
