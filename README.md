@@ -85,7 +85,7 @@ This course introduces the fundamentals of computer programming using the Java p
   </tr>
   <tr>
     <td colspan="2"><img src="" alt="" border='3' height='140' width='140' /></td>
-    <td colspan="3"><center><a href="https://nastaraan.github.io/test2/">S O</a><br>description</center></td>
+    <td colspan="3"><center><a href="https://nastaraan.github.io/test2/">Mojtaba Ostovari</a><br>PhD Candidate in Computer Science<br>Sharif University of Technology</center>       </td>
   </tr>
   <tr>
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
