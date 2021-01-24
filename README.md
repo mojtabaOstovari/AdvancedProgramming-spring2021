@@ -13,69 +13,6 @@ This course introduces advanced computer programming using the Java programming 
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
 
 # Presentation Team
-<!--
-<table>
-  <tr>
-    <td colspan="5"><center><span></span></center></td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td><center><span style="font-weight:bold">Lecturer</span></center></td>
-    <td><center> Mojtaba Ostovari </center></td> 
-    <td><center> <i>ostovari.mojtaba@gmail.com</i> </center></td> 
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td><center><span style="font-weight:bold">Teaching<br>Assistants</span></center></td>
-    <td>
-      <center>
-        Nastaran Behrooznia<br>
-        Helia Yazdanyar<br>
-        Helia Niaparast<br>
-        Diba Hashemi<br>
-        AmirMohammad Sadat<br>
-        MohammadMehdi Zare<br>
-        Hossein Rahmani<br>
-        Erfan Mousavian<br>
-        MohammadAli Olama<br>
-        Matin Ansaripour<br>
-        Mobin Madani<br>
-        Kasra Khoshjoo<br>
-        Ali Shafiei<br>
-        Mohammad Torabi<br>
-        Nima Khodaveisi<br>
-        Ali Tavassoli<br>
-        Benyamin Beyzaie
-      </center>
-    </td>
-    <td>
-      <center>
-        <i>nastaran.behrooznia@gmail.com</i><br>
-        <i>helia79yaz@gmail.com</i><br>
-        <i>helianiaparast@gmail.com</i><br>
-        <i>diba.hashemi@gmail.com</i><br>
-        <i>sam.sadat.shokouhi@gmail.com</i><br>
-        <i>zaremohammadmehdi2001@gmail.com</i><br>
-        <i>rahmani.hossein1380@gmail.com</i><br>
-        <i>erfan_mousavian1380@yahoo.com</i><br>
-        <i>rastegar123456789@gmail.com</i><br>
-        <i>matinansaripour@gmail.com</i><br>
-        <i>mobinmadani8@gmail.com</i><br>
-        <i>kasrakhoshjoo@gmail.com</i><br>
-        <i>shafieiali42@gmail.com</i><br>
-        <i>muht2035@gmail.com</i><br>
-        <i>nima10khodaveisi@gmail.com</i><br>
-        <i>tavassolyali@gmail.com</i><br>
-        <i>benyamin137928@gmail.com</i>
-      </center>
-    </td>
-  </tr> 
-</table>
--->
- 
-
 <table>
   <tr>
     <td colspan="5"><center><span style="font-weight:bold"></span></center></td>
@@ -84,7 +21,7 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <td colspan="1"><center><img src=".\Images\S.jpeg" alt=""  height='200' width='200' /></center></td>
+    <td colspan="1"><center><img src=".\Images\S.jpg" alt=""  height='200' width='200' /></center></td>
     <td colspan="4"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
   <tr>
