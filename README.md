@@ -104,6 +104,20 @@ This course introduces the fundamentals of computer programming using the Java p
     <td><center><a href="">C</a></center></td>
     <td><center><a href="">D</a></center></td>
   </tr>
+  <tr>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+  </tr>
+  <tr>
+  </tr>
+   <tr>
+    <td><center><a href="">A</a></center></td>
+    <td><center><a href="">B</a></center></td>
+    <td><center><a href="">C</a></center></td>
+    <td><center><a href="">D</a></center></td>
+  </tr>
 </table>
 
 
