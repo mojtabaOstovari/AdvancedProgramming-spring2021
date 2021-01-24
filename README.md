@@ -28,10 +28,10 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt="" border='1' height='200' width='200' /></center></td>
-    <td><center><img src=".\Images\MohammadTorabi.jpg" alt="" border='1' height='200' width='200' /></center></td>
-    <td><center><img src=".\Images\MohammadAliOlama.jpg" alt="" border='1' height='200' width='200' /></center></td>
-    <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt="" border='1' height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt=""  height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\MohammadTorabi.jpg" alt=""  height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\MohammadAliOlama.jpg" alt=""  height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt=""  height='200' width='200' /></center></td>
   </tr>
   <tr>
   </tr>
@@ -42,10 +42,10 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="MAILTO:zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\ErfanMousavian.jpg" alt="" border='1' height='200' width='200' /></center></td>
-    <td><center><img src=".\Images\SoroushTabesh.jpg" alt="" border='1' height='200' width='200' /></center></td>
-    <td><center><img src=".\Images\NimaAlizadeh.jpg" alt="" border='1' height='200' width='200' /></center></td>
-    <td><img src=".\Images\H.png" alt="" border='1' height='200' width='200' /></td>
+    <td><center><img src=".\Images\ErfanMousavian.jpg" alt=""  height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='200' width='200' /></center></td>
+    <td><img src=".\Images\H.png" alt="" height='200' width='200' /></td>
   </tr>
   <tr>
   </tr>
@@ -56,10 +56,10 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">H</a></center></td>
   </tr>
   <tr>
-    <td><img src=".\Images\I.png" alt="" border='1' height='160' width='120' /></td>
-    <td><img src=".\Images\J.png" alt="" border='1' height='160' width='120' /></td>
-    <td><img src=".\Images\K.png" alt="" border='1' height='160' width='120' /></td>
-    <td><img src=".\Images\L.png" alt="" border='1' height='160' width='120' /></td>
+    <td><img src=".\Images\I.png" alt=""  height='200' width='200' /></td>
+    <td><img src=".\Images\J.png" alt=""  height='200' width='200' /></td>
+    <td><img src=".\Images\K.png" alt=""  height='200' width='200' /></td>
+    <td><img src=".\Images\L.png" alt=""  height='200' width='200' /></td>
   </tr>
   <tr>
   </tr>
