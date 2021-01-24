@@ -93,8 +93,8 @@ This course introduces the fundamentals of computer programming using the Java p
   <tr>
     <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt="" border='3' height='180' width='120' /></center></td>
     <td><center><img src=".\Images\MohammadTorabi.jpg" alt="" border='3' height='180' width='120' /></center></td>
-    <td><img src=".\Images\MohammadAliOlama.jpg" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\MohammadMehdiZare.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><center><img src=".\Images\MohammadAliOlama.jpg" alt="" border='3' height='180' width='120' /></center></td>
+    <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt="" border='3' height='180' width='120' /></center></td>
   </tr>
   <tr>
   </tr>
@@ -105,9 +105,9 @@ This course introduces the fundamentals of computer programming using the Java p
     <td><center><a href="">MohammadMehdi Zare</a></center></td>
   </tr>
   <tr>
-    <td><img src=".\Images\ErfanMousavian.jpg" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\SoroushTabesh.jpg" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\NimaAlizadeh.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><center><img src=".\Images\ErfanMousavian.jpg" alt="" border='3' height='180' width='120' /></center></td>
+    <td><center><img src=".\Images\SoroushTabesh.jpg" alt="" border='3' height='180' width='120' /></center></td>
+    <td><center><img src=".\Images\NimaAlizadeh.jpg" alt="" border='3' height='180' width='120' /></center></td>
     <td><img src=".\Images\H.png" alt="" border='3' height='160' width='120' /></td>
   </tr>
   <tr>
