@@ -137,22 +137,12 @@ This course introduces the advanced computer programming using the Java programm
 
 
 # Lectures
-* ## Lecture 1: ##
-
-
-
 
 
 # Assignments
-  * ## Designers: ##
-  
-  <br>
-  
-  * ## Homework Series: ##
+
 
 # Project
-
-# TA Class
 
 
 # Grading
@@ -169,8 +159,6 @@ After the first month, we define a project.
 ```markdown
 Further details will be announced later. 
 ```
-
-* There are also weekly assignments with <u>no grade</u>, but we strongly advise you to do them and ask your questions, if any.
 
 
 # App and Tools
