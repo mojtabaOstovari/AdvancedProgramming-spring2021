@@ -45,7 +45,7 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\ErfanMousavian.jpg" alt=""  height='200' width='200' /></center></td>
     <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='200' width='200' /></center></td>
     <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='200' width='200' /></center></td>
-    <td><center><img src=".\Images\Helia.png" alt="" height='200' width='200' /></center></td>
+    <td><center><img src=".\Images\Helia.jpg" alt="" height='200' width='200' /></center></td>
   </tr>
   <tr>
   </tr>
