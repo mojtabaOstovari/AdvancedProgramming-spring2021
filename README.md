@@ -5,7 +5,7 @@
 
 # Course Description
 
-This course introduces the advanced computer programming using the Java programming language. 
+This course introduces advanced computer programming using the Java programming language. 
 
 
 # Class Time and Location
