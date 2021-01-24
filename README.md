@@ -9,7 +9,7 @@ This course introduces the advanced computer programming using the Java programm
 
 
 # Class Time and Location
-* Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
+* Sunday and Tuesday 13:00-15:00.
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
 
 # Presentation Team
