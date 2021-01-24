@@ -91,31 +91,31 @@ This course introduces the fundamentals of computer programming using the Java p
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
-    <td><img src=".\Images\A.png" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\B.png" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\C.png" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\D.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\AmirMohammadSadat.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\MohammadTorabi.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\MohammadAliOlama.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\MohammadMehdiZare.jpg" alt="" border='3' height='160' width='120' /></td>
   </tr>
   <tr>
   </tr>
    <tr>
-    <td><center><a href="">A</a></center></td>
-    <td><center><a href="">B</a></center></td>
-    <td><center><a href="">C</a></center></td>
-    <td><center><a href="">D</a></center></td>
+    <td><center><a href="">AmirMohammad Sadat</a></center></td>
+    <td><center><a href="">Mohammad Torabi</a></center></td>
+    <td><center><a href="">MohammadAli Olama</a></center></td>
+    <td><center><a href="">MohammadMehdi Zare</a></center></td>
   </tr>
   <tr>
-    <td><img src=".\Images\E.png" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\F.png" alt="" border='3' height='160' width='120' /></td>
-    <td><img src=".\Images\G.png" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\ErfanMousavian.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\SoroushTabesh.jpg" alt="" border='3' height='160' width='120' /></td>
+    <td><img src=".\Images\NimaAlizadeh.jpg" alt="" border='3' height='160' width='120' /></td>
     <td><img src=".\Images\H.png" alt="" border='3' height='160' width='120' /></td>
   </tr>
   <tr>
   </tr>
    <tr>
-    <td><center><a href="">E</a></center></td>
-    <td><center><a href="">F</a></center></td>
-    <td><center><a href="">G</a></center></td>
+    <td><center><a href="">Erfan Mousavian</a></center></td>
+    <td><center><a href="">Soroush Tabesh</a></center></td>
+    <td><center><a href="">Nima Alizadeh</a></center></td>
     <td><center><a href="">H</a></center></td>
   </tr>
   <tr>
