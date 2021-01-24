@@ -13,7 +13,7 @@ This course introduces the fundamentals of computer programming using the Java p
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
 
 # Presentation Team
-
+<!--
 <table>
   <tr>
     <td colspan="5"><center><span></span></center></td>
@@ -73,8 +73,8 @@ This course introduces the fundamentals of computer programming using the Java p
     </td>
   </tr> 
 </table>
-
-<!-- 
+-->
+ 
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ This course introduces the fundamentals of computer programming using the Java p
   </tr>
 </table>
 
--->
+
 
 # Lectures
 * ## Lecture 1: ##
