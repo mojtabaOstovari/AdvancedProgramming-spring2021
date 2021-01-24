@@ -153,10 +153,6 @@ There will be 5 homework series.
 ```markdown
 After the first month, we define a project.
 ```
-* [**Final Exam**](#final-exam) – <b>15%</b>
-```markdown
-Further details will be announced later. 
-```
 
 
 # App and Tools
