@@ -145,11 +145,11 @@ This course introduces advanced computer programming using the Java programming 
 
 # Grading
 
-* [**Assignments**](#assignments) – <b>40%</b>
+* [**Assignments**](#assignments) – <b>45%</b>
 ```markdown
 There will be 5 homework series.
 ```
-* [**Project**](#project) – <b>50%</b>
+* [**Project**](#project) – <b>55%</b>
 ```markdown
 After the first month, we define a project.
 ```
