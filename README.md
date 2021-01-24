@@ -85,7 +85,7 @@ This course introduces the fundamentals of computer programming using the Java p
   </tr>
   <tr>
     <td colspan="2"><img src=".\Images\S.png" alt="" border='3' height='160' width='120' /></td>
-    <td colspan="3"><center><a href="https://nastaraan.github.io/test2/">Mojtaba Ostovari</a><br>PhD Candidate in Computer Science<br>Sharif University of Technology</center>       </td>
+    <td colspan="3"><center><a href="ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>PhD Candidate in Computer Science<br>Sharif University of Technology</center>       </td>
   </tr>
   <tr>
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
@@ -99,10 +99,10 @@ This course introduces the fundamentals of computer programming using the Java p
   <tr>
   </tr>
    <tr>
-    <td><center><a href="">AmirMohammad Sadat</a></center></td>
-    <td><center><a href="">Mohammad Torabi</a></center></td>
-    <td><center><a href="">MohammadAli Olama</a></center></td>
-    <td><center><a href="">MohammadMehdi Zare</a></center></td>
+    <td><center><a href="sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
+    <td><center><a href="muht2035@gmail.com">Mohammad Torabi</a></center></td>
+    <td><center><a href="rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
+    <td><center><a href="zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
   </tr>
   <tr>
     <td><center><img src=".\Images\ErfanMousavian.jpg" alt="" border='3' height='200' width='200' /></center></td>
@@ -113,7 +113,7 @@ This course introduces the fundamentals of computer programming using the Java p
   <tr>
   </tr>
    <tr>
-    <td><center><a href="">Erfan Mousavian</a></center></td>
+    <td><center><a href="erfan_mousavian1380@yahoo.com">Erfan Mousavian</a></center></td>
     <td><center><a href="">Soroush Tabesh</a></center></td>
     <td><center><a href="">Nima Alizadeh</a></center></td>
     <td><center><a href="">H</a></center></td>
