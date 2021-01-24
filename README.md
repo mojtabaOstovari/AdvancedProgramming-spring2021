@@ -91,7 +91,7 @@ This course introduces the fundamentals of computer programming using the Java p
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt="" border='3'/></center></td>
+    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt="" border='3' height='200' width='200' /></center></td>
     <td><center><img src=".\Images\MohammadTorabi.jpg" alt="" border='3' height='180' width='120' /></center></td>
     <td><center><img src=".\Images\MohammadAliOlama.jpg" alt="" border='3' height='180' width='120' /></center></td>
     <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt="" border='3' height='180' width='120' /></center></td>
