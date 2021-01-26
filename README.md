@@ -15,22 +15,17 @@ This course introduces advanced computer programming using the Java programming 
 # Presentation Team
 <table>
   <tr>
-    <td colspan="8"><center><span style="font-weight:bold"></span></center></td>
+    <td colspan="5"><center><span style="font-weight:bold"></span></center></td>
   </tr>
   <tr>
-    <td colspan="8"><center><span style="font-weight:bold">Lecturer</span></center></td>
+    <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <!--
-    <td colspan="8"><center><img src=".\Images\S.jpg" alt=""  height='250' width='250' /><br><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a></br>ostovari.mojtaba@gmail.com</center></td>
-    -->
-    
     <td colspan="2"><center><img src=".\Images\S.jpg" alt=""  height='250' width='250' /></center></td>
     <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
-    
   </tr>
   <tr>
-    <td colspan="8"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
+    <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
     <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt=""  height='200' width='200' /></center></td>
