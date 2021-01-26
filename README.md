@@ -15,9 +15,6 @@ This course introduces advanced computer programming using the Java programming 
 # Presentation Team
 <table>
   <tr>
-    <td colspan="5"><center><span style="font-weight:bold"></span></center></td>
-  </tr>
-  <tr>
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
