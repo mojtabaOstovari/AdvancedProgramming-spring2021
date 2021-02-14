@@ -58,7 +58,7 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\L.png" alt=""  height='180' width='180'/></center></td>
   </tr>
    <tr>
-    <td><center><a href="">K</a></center></td>
+    <td><center><a href="">Ghazal Farahani</a></center></td>
     <td><center><a href="">L</a></center></td>
     <td><center><a href="">K</a></center></td>
     <td><center><a href="">L</a></center></td>
