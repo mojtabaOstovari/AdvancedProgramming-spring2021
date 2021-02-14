@@ -52,10 +52,14 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">Nima Alizadeh</a></center></td>
   </tr>
   <tr>
-    <td><img src=".\Images\K.png" alt=""  height='180' width='180' /></td>
-    <td><img src=".\Images\L.png" alt=""  height='180' width='180' /></td>
+    <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='180' width='180' /></center></td>
+    <td><center><img src=".\Images\L.png" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\K.png" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\L.png" alt=""  height='180' width='180'/></center></td>
   </tr>
    <tr>
+    <td><center><a href="">K</a></center></td>
+    <td><center><a href="">L</a></center></td>
     <td><center><a href="">K</a></center></td>
     <td><center><a href="">L</a></center></td>
   </tr>
