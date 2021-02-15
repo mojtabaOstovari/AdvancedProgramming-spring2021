@@ -28,11 +28,11 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\MohammadTorabi.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\MohammadAliOlama.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\AmirMohammadSadat.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\MohammadTorabi.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\MohammadAliOlama.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\MohammadMehdiZare.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\Ghazal.jpg" border='0' alt=""  height='125' width='125' /></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
