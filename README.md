@@ -1,4 +1,4 @@
-<center><img src=".\Images\SharifUT.png" alt="" border='3' height='150' width='150' /></center>
+<center><img src=".\Images\SharifUT.png" alt="" height='150' width='150' /></center>
 <center> Sharif University of Technology <br> Department of Mathematical Sciences </center>
 <br>
 <br>
@@ -18,7 +18,7 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <td colspan="2"><center><img src=".\Images\S.jpg" alt="" hspace="0" vspace="0" height='200' width='200' /></center></td>
+    <td colspan="2"><center><img src=".\Images\S.jpg" alt="" height='200' width='200' /></center></td>
     <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
  </table>
