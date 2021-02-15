@@ -53,15 +53,15 @@ This course introduces advanced computer programming using the Java programming 
   </tr>
   <tr>
     <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\L.png" alt=""  height='180' width='180'/></center></td>
-    <td><center><img src=".\Images\K.png" alt=""  height='180' width='180'/></center></td>
-    <td><center><img src=".\Images\L.png" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\Lachin.jpg" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\Nima.jpg" alt=""  height='180' width='180'/></center></td>
   </tr>
    <tr>
     <td><center><a href="">Ghazal Farahani</a></center></td>
-    <td><center><a href="">L</a></center></td>
-    <td><center><a href="">K</a></center></td>
-    <td><center><a href="">L</a></center></td>
+    <td><center><a href="">L</a>Hossain Rahmani</center></td>
+    <td><center><a href="">K</a>Lachin NaghashYar</center></td>
+    <td><center><a href="">L</a>Nima Khodaveisi</center></td>
   </tr>
 </table>
 
