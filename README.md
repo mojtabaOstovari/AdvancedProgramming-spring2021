@@ -65,6 +65,15 @@ This course introduces advanced computer programming using the Java programming 
   </tr>
 </table>
 
+
+<br>
+
+# Calendar
+
+<center><img src=".\Images\Cal.jpg" alt=""   /></center>
+
+<br>
+
 # Lectures
 * ## Lecture 1: ##
     Sunday 1399/11/26
@@ -72,12 +81,6 @@ This course introduces advanced computer programming using the Java programming 
     Course description
     ```
     * [Course Description Slide](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)
-
-<br>
-
-# Calendar
-
-<center><img src=".\Images\Cal.jpg" alt=""   /></center>
 
 <br>
 
