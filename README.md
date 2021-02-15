@@ -18,7 +18,7 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <td colspan="2"><center><img src=".\Images\S.jpg" alt="" height='200' width='200' /></center></td>
+    <td colspan="2"><center><img src=".\Images\S.jpg" border='0' alt="" height='200' width='200' /></center></td>
     <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
  </table>
@@ -42,11 +42,11 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">Ghazal Farahani</a></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\Helia.jpg" alt="" height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\ErfanMousavian.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='125' width='125' /></center></td>
-    <td><center><img src=".\Images\Lachin.jpg" alt=""  height='125' width='125'/></center></td>
+    <td><center><img src=".\Images\Helia.jpg" border='0' alt="" height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\ErfanMousavian.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\SoroushTabesh.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\NimaAlizadeh.jpg" border='0' alt=""  height='125' width='125' /></center></td>
+    <td><center><img src=".\Images\Lachin.jpg" border='0' alt=""  height='125' width='125'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:helia79yaz@gmail.com">Helia Yazdanyar</a></center></td>
@@ -56,8 +56,8 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">Lachin NaghashYar</a></center></td>
   </tr>
   <tr>
-  <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='125' width='125'/></center></td>
-  <td><center><img src=".\Images\Nima.jpg" alt=""  height='125' width='125'/></center></td>
+  <td><center><img src=".\Images\Rahmani.jpg" border='0' alt=""  height='125' width='125'/></center></td>
+  <td><center><img src=".\Images\Nima.jpg" border='0' alt=""  height='125' width='125'/></center></td>
   </tr>
   <tr>
   <td><center><a href="">Hossain Rahmani</a></center></td>
