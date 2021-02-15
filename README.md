@@ -59,9 +59,9 @@ This course introduces advanced computer programming using the Java programming 
   </tr>
    <tr>
     <td><center><a href="">Ghazal Farahani</a></center></td>
-    <td><center><a href="">L</a>Hossain Rahmani</center></td>
-    <td><center><a href="">K</a>Lachin NaghashYar</center></td>
-    <td><center><a href="">L</a>Nima Khodaveisi</center></td>
+    <td><center><a href="">Hossain Rahmani</a></center></td>
+    <td><center><a href="">Lachin NaghashYar</a></center></td>
+    <td><center><a href="">Nima Khodaveisi</a></center></td>
   </tr>
 </table>
 
