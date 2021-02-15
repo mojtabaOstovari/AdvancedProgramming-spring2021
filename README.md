@@ -1,4 +1,4 @@
-<center><img src=".\Images\SharifUT.png" alt="" height='150' width='150' /></center>
+<center><img src=".\Images\SharifUT.png" alt="" height='170' width='170' /></center>
 <center> Sharif University of Technology <br> Department of Mathematical Sciences </center>
 <br>
 <br>
