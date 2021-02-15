@@ -18,7 +18,7 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
-    <td colspan="2"><center><img src=".\Images\S.jpg" alt=""  height='240' width='240' /></center></td>
+    <td colspan="2"><center><img src=".\Images\S.jpg" alt=""  height='210' width='210' /></center></td>
     <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
  </table>
@@ -33,7 +33,6 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\MohammadAliOlama.jpg" alt=""  height='90' width='90' /></center></td>
     <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt=""  height='90' width='90' /></center></td>
     <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='90' width='90' /></center></td>
-    <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='90' width='90'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
@@ -41,7 +40,6 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="MAILTO:rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
     <td><center><a href="MAILTO:zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
     <td><center><a href="">Ghazal Farahani</a></center></td>
-    <td><center><a href="">Hossain Rahmani</a></center></td>
   </tr>
   <tr>
     <td><center><img src=".\Images\Helia.jpg" alt="" height='90' width='90' /></center></td>
@@ -49,7 +47,6 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='90' width='90' /></center></td>
     <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='90' width='90' /></center></td>
     <td><center><img src=".\Images\Lachin.jpg" alt=""  height='90' width='90'/></center></td>
-    <td><center><img src=".\Images\Nima.jpg" alt=""  height='90' width='90'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:helia79yaz@gmail.com">Helia Yazdanyar</a></center></td>
@@ -57,7 +54,14 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">Soroush Tabesh</a></center></td>
     <td><center><a href="">Nima Alizadeh</a></center></td>
     <td><center><a href="">Lachin NaghashYar</a></center></td>
-    <td><center><a href="">Nima Khodaveisi</a></center></td>
+  </tr>
+  <tr>
+  <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='90' width='90'/></center></td>
+  <td><center><img src=".\Images\Nima.jpg" alt=""  height='90' width='90'/></center></td>
+  </tr>
+  <tr>
+  <td><center><a href="">Hossain Rahmani</a></center></td>
+  <td><center><a href="">Nima Khodaveisi</a></center></td>
   </tr>
 </table>
 
