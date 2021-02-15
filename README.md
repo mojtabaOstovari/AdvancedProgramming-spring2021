@@ -28,12 +28,12 @@ This course introduces advanced computer programming using the Java programming 
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\MohammadTorabi.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\MohammadAliOlama.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\AmirMohammadSadat.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\MohammadTorabi.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\MohammadAliOlama.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='90' width='90'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
@@ -44,12 +44,12 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><a href="">Hossain Rahmani</a></center></td>
   </tr>
   <tr>
-    <td><center><img src=".\Images\Helia.jpg" alt="" height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\ErfanMousavian.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\Lachin.jpg" alt=""  height='180' width='180'/></center></td>
-    <td><center><img src=".\Images\Nima.jpg" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\Helia.jpg" alt="" height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\ErfanMousavian.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='90' width='90' /></center></td>
+    <td><center><img src=".\Images\Lachin.jpg" alt=""  height='90' width='90'/></center></td>
+    <td><center><img src=".\Images\Nima.jpg" alt=""  height='90' width='90'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:helia79yaz@gmail.com">Helia Yazdanyar</a></center></td>
