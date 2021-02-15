@@ -32,34 +32,30 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\MohammadTorabi.jpg" alt=""  height='180' width='180' /></center></td>
     <td><center><img src=".\Images\MohammadAliOlama.jpg" alt=""  height='180' width='180' /></center></td>
     <td><center><img src=".\Images\MohammadMehdiZare.jpg" alt=""  height='180' width='180' /></center></td>
+    <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='180' width='180' /></center></td>
+    <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='180' width='180'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
     <td><center><a href="MAILTO:muht2035@gmail.com">Mohammad Torabi</a></center></td>
     <td><center><a href="MAILTO:rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
     <td><center><a href="MAILTO:zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
+    <td><center><a href="">Ghazal Farahani</a></center></td>
+    <td><center><a href="">Hossain Rahmani</a></center></td>
   </tr>
   <tr>
     <td><center><img src=".\Images\Helia.jpg" alt="" height='180' width='180' /></center></td>
     <td><center><img src=".\Images\ErfanMousavian.jpg" alt=""  height='180' width='180' /></center></td>
     <td><center><img src=".\Images\SoroushTabesh.jpg" alt=""  height='180' width='180' /></center></td>
     <td><center><img src=".\Images\NimaAlizadeh.jpg" alt=""  height='180' width='180' /></center></td>
+    <td><center><img src=".\Images\Lachin.jpg" alt=""  height='180' width='180'/></center></td>
+    <td><center><img src=".\Images\Nima.jpg" alt=""  height='180' width='180'/></center></td>
   </tr>
    <tr>
     <td><center><a href="MAILTO:helia79yaz@gmail.com">Helia Yazdanyar</a></center></td>
     <td><center><a href="MAILTO:erfan_mousavian1380@yahoo.com">Erfan Mousavian</a></center></td>
     <td><center><a href="">Soroush Tabesh</a></center></td>
     <td><center><a href="">Nima Alizadeh</a></center></td>
-  </tr>
-  <tr>
-    <td><center><img src=".\Images\Ghazal.jpg" alt=""  height='180' width='180' /></center></td>
-    <td><center><img src=".\Images\Rahmani.jpg" alt=""  height='180' width='180'/></center></td>
-    <td><center><img src=".\Images\Lachin.jpg" alt=""  height='180' width='180'/></center></td>
-    <td><center><img src=".\Images\Nima.jpg" alt=""  height='180' width='180'/></center></td>
-  </tr>
-   <tr>
-    <td><center><a href="">Ghazal Farahani</a></center></td>
-    <td><center><a href="">Hossain Rahmani</a></center></td>
     <td><center><a href="">Lachin NaghashYar</a></center></td>
     <td><center><a href="">Nima Khodaveisi</a></center></td>
   </tr>
