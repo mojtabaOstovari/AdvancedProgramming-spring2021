@@ -60,7 +60,7 @@ This course introduces advanced computer programming using the Java programming 
   <td><center><img src=".\Images\Nima.jpg" border='0' alt=""  height='125' width='125'/></center></td>
   </tr>
   <tr>
-  <td><center><a href="">Hossain Rahmani</a></center></td>
+  <td><center><a href="">Hossein Rahmani</a></center></td>
   <td><center><a href="">Nima Khodaveisi</a></center></td>
   </tr>
 </table>
