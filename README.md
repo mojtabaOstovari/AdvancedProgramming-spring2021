@@ -84,6 +84,16 @@ This course introduces advanced computer programming using the Java programming 
 
 <br>
 
+* ## Lecture 2: ##
+    Tuesday 1399/11/28
+    ```markdown
+    Basic programming review
+    ```
+    * [Slide](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1)
+    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1)
+
+<br>
+
 # Assignments
 
 
