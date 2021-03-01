@@ -112,6 +112,15 @@ This course introduces advanced computer programming using the Java programming 
 
 <br>
 
+* ## Lecture 5: ##
+    Sunday 1399/12/10
+    ```markdown
+    OOP
+    ```
+    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_05.mkv?forcedownload=1)
+
+<br>
+
 # Assignments
 
 

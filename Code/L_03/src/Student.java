@@ -1,17 +1,10 @@
 import java.util.LinkedList;
 
-public class Student {
+public class Student extends Person {
     static int lastId = 0;
     final static LinkedList<Student> studentList = new LinkedList<>();
     static Student lastStudent;
-
-    final int id;
-    int year;
-    String firstName;
-    String lastName;
-    String email;
-
-    boolean isActive;
+    protected Teacher teacher;
 
     Student(int year, String firstName, String lastName){
         studentList.add(this);
@@ -27,14 +20,6 @@ public class Student {
     Student(int year, String firstName, String lastName, String email){
         this(year, firstName, lastName);
         this.email=email;
-    }
-
-    String getFullName(){
-        return this.firstName + " " + this.lastName;
-    }
-
-    void setEmail(String email){
-        this.email = email;
     }
 
     static int totalStudent(){

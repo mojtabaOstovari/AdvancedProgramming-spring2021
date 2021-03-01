@@ -1,7 +1,7 @@
 public class Date {
-    int day;
-    int month;
-    int year;
+    protected int year;
+    protected int month;
+    protected int day;
 
     public Date(int year, int month, int day) {
         this.day = day;
@@ -13,6 +13,7 @@ public class Date {
         // ---
         return "";
     }
+
     boolean isWeekend(){
         // ---
         return true;

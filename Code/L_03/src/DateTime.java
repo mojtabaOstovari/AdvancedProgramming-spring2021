@@ -1,13 +1,23 @@
 public class DateTime extends Date {
-    int hour;
-    int minute;
-    int second;
+    private int hour;
+    private int minute;
+    private int second;
 
-    DateTime(int year, int month, int day, int hour, int minute, int second){
+    public DateTime(int year, int month, int day, int hour, int minute, int second){
         super(year, month, day);
         this.hour = hour;
         this.minute = minute;
         this.second = second;
+    }
+
+    public int getHour(){
+        return this.hour;
+    }
+
+    public void setHour(int value){
+        if (value>0 && value<24){
+            this.hour = value;
+        }
     }
 
     @Override
@@ -27,9 +37,5 @@ public class DateTime extends Date {
 
     void g(){
         System.out.println("Hi");
-    }
-
-    public int getHour() {
-        return hour;
     }
 }
