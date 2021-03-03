@@ -35,7 +35,7 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\Ghazal.jpg" border='0' alt=""  height='125' width='125' /></center></td>
   </tr>
    <tr>
-    <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com"> AmirMohammad Sadat Shokouhi</a></center></td>
+    <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com"> AmirMohammad SadatShokouhi</a></center></td>
     <td><center><a href="MAILTO:muht2035@gmail.com">Mohammad Torabi</a></center></td>
     <td><center><a href="MAILTO:rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
     <td><center><a href="MAILTO:zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
@@ -70,7 +70,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Calendar
 
-click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5nQGdtYWlsLmNvbQ) below due to check course calender and all the dead lines.
+  click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5nQGdtYWlsLmNvbQ) below due to check course calender and all the dead lines.
 
 <br>
 
@@ -140,7 +140,7 @@ click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5
 # Project
 
 * ## project overview
-  you can open project overview in this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing)
+  you can open project overview in this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing).
 
 # Grading
 
