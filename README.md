@@ -35,7 +35,7 @@ This course introduces advanced computer programming using the Java programming 
     <td><center><img src=".\Images\Ghazal.jpg" border='0' alt=""  height='125' width='125' /></center></td>
   </tr>
    <tr>
-    <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">AmirMohammad Sadat</a></center></td>
+    <td><center><a href="MAILTO:sam.sadat.shokouhi@gmail.com">Seyed AmirMohammad Sadat Shokouhi</a></center></td>
     <td><center><a href="MAILTO:muht2035@gmail.com">Mohammad Torabi</a></center></td>
     <td><center><a href="MAILTO:rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
     <td><center><a href="MAILTO:zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
@@ -70,7 +70,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Calendar
 
-<center><img src=".\Images\Cal.jpg" alt=""   /></center>
+click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5nQGdtYWlsLmNvbQ) below due to check course calender and all the dead lines
 
 <br>
 
@@ -131,6 +131,8 @@ This course introduces advanced computer programming using the Java programming 
 <br>
 
 # Assignments
+* ## Homework1
+  released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
 
 
 # Project
@@ -139,12 +141,19 @@ This course introduces advanced computer programming using the Java programming 
 # Grading
 
 * [**Assignments**](#assignments) – <b>45%</b>
-```markdown
-There will be 5 homework series.
-```
+  
+   There will be 5 homework series.
+The grading of each series of exercises will be as follows.
+   * [**Homework1**](#Homework1) - 5% <br>
+   * Homework 2 - 10% <br>
+   * Homework 3 - 10% <br>
+   * Homework 4 - 10% <br>
+   * Homework 5 - 10% <br>
+
 * [**Project**](#project) – <b>55%</b>
 ```markdown
 After the first month, we define a project.
+The grading of each part of the project will be determined when that part is published.
 ```
 
 
