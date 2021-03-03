@@ -130,11 +130,11 @@ click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5
 
 <br>
 
-# Assignments
+# Assignments <br>
 
-  ## Homework1
+*  # Homework1
   
->>   released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
+   released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
 
 
 # Project
