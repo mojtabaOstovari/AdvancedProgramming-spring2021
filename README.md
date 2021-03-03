@@ -131,8 +131,10 @@ click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5
 <br>
 
 # Assignments
-* ## Homework1
-  released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
+
+>  ## Homework1
+  
+>>   released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
 
 
 # Project
@@ -142,9 +144,8 @@ click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5
 
 * [**Assignments**](#assignments) – <b>45%</b>
   
-   There will be 5 homework series.
-The grading of each series of exercises will be as follows.
-   * [**Homework1**](#Homework1) - 5% <br>
+   There will be 5 homework series. The grading of each series of exercises will be as follows.
+   * [**Homework1**](##Homework1) - 5% <br>
    * Homework 2 - 10% <br>
    * Homework 3 - 10% <br>
    * Homework 4 - 10% <br>
