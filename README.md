@@ -130,7 +130,7 @@ click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5
 
 <br>
 
-# Assignments <br>
+# Assignments 
 
 *  # Homework1
   
