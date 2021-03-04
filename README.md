@@ -132,7 +132,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Assignments 
 
-*  ## Homework 1
+*  ## Homework 1 ##
   
    The first series of exercises released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
 
