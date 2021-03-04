@@ -19,7 +19,7 @@ This course introduces advanced computer programming using the Java programming 
   </tr>
   <tr>
     <td colspan="2"><center><img src=".\Images\S.jpg" border='0' alt="" height='200' width='200' /></center></td>
-    <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com" vertical-align="middle" >Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
+    <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com" vertical-align=middle >Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
  </table>
  
