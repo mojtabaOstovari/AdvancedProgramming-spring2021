@@ -19,13 +19,13 @@ This course introduces advanced computer programming using the Java programming 
   </tr>
   <tr>
     <td colspan="2"><center><img src=".\Images\S.jpg" border='0' alt="" height='200' width='200' /></center></td>
-    <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
+    <td colspan="3" vertical-align="middle"><center><a href="MAILTO:ostovari.mojtaba@gmail.com" >Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
   </tr>
  </table>
  
  <table>
   <tr>
-    <td colspan="5"><center><span style="font-weight:bold" vertical-align="middle" line-height=50px>Teaching Assistants</span></center></td>
+    <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
     <td><center><img src=".\Images\AmirMohammadSadat.jpg" border='0' alt=""  height='125' width='125' /></center></td>
