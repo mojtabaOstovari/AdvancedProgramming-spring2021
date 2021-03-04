@@ -67,16 +67,6 @@ This course introduces advanced computer programming using the Java programming 
 
 <br>
 
-# Lectures2
-
-| Lecture number | Date          | Topic | Slides | video | 
-| :------------: |:-------------:| :----:| :------:| :-: |
-| Lecture 1      | Sunday 1399/11/26 | Course description |  [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)| ❌|
-Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1) |
-
-
-<br>
-
 # Calendar
 
   click on the this [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5nQGdtYWlsLmNvbQ) due to check course calender and all the events.
@@ -84,6 +74,19 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 <br>
 
 # Lectures
+
+| Lecture number | Date          | Topic | Slides | video | 
+| :------------: |:-------------:| :----:| :------:| :-: |
+| Lecture 1      | Sunday 1399/11/26 | Course description |  [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)| ❌ |
+Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1) |
+Lecture 3 | Sunday 1399/12/03 | OOP | ❌ |  [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_03.mkv?forcedownload=1) |
+| Lecture 4 | Tuesday 1399/12/05 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_04.mkv?forcedownload=1)|
+|Lecture 5 | Sunday 1399/12/10 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_05.mkv?forcedownload=1) |
+| Lecture 6 | Tuesday 1399/12/12 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_06.mkv?forcedownload=1) |
+
+<br>
+
+<!-- # Lectures
 * ## Lecture 1: ##
     Sunday 1399/11/26
     ```markdown
@@ -137,7 +140,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
     ```
     * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_06.mkv?forcedownload=1)
 
-<br>
+<br> -->
 
 # Assignments 
 
