@@ -25,7 +25,7 @@ This course introduces advanced computer programming using the Java programming 
  
  <table>
   <tr>
-    <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
+    <td colspan="5"><center><span style="font-weight:bold" vertical-align= middle>Teaching Assistants</span></center></td>
   </tr>
   <tr>
     <td><center><img src=".\Images\AmirMohammadSadat.jpg" border='0' alt=""  height='125' width='125' /></center></td>
