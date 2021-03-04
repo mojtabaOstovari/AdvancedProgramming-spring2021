@@ -70,7 +70,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Calendar
 
-  click on the [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5nQGdtYWlsLmNvbQ) below due to check course calender and all the dead lines.
+  click on the this [link](https://calendar.google.com/calendar/u/0?cid=YXAyMDIxc3ByaW5nQGdtYWlsLmNvbQ) due to check course calender and all the events.
 
 <br>
 
