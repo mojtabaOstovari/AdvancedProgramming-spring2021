@@ -139,7 +139,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Project
 
-* ## project overview
+* ## Project overview ##
   To see Project overview, you can click on this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing).
 
 # Grading
