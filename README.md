@@ -66,6 +66,26 @@ This course introduces advanced computer programming using the Java programming 
 </table>
 
 
+<table>
+<caption><span style="font-weight:bold">Lectures</span></caption>
+
+  <tr>
+    <td><center><span> Lecture </span> </center></td>
+    <td><center><a href="MAILTO:muht2035@gmail.com">Mohammad Torabi</a></center></td>
+    <td><center><a href="MAILTO:rastegar123456789@gmail.com">MohammadAli Olama</a></center></td>
+    <td><center><a href="MAILTO:zaremohammadmehdi2001@gmail.com">MohammadMehdi Zare</a></center></td>
+    <td><center><a href="">Ghazal Farahani</a></center></td>
+  </tr>
+</table>
+
+<br>
+
+# Lectures2
+
+| Lecture number | Date          | Topic | Slides | video | 
+| :------------: |:-------------:| :----:| :------:| :-: |
+| Lecture 1      | Sunday 1399/11/26 | Course description |  [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)| ❌|
+
 <br>
 
 # Calendar
