@@ -106,6 +106,9 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 * ### Project overview ###
   To see Project overview, you can click on this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing).
 
+* ### Phase 1 ###
+  The first phase of the project is in this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing).
+
 # Grading
 
 * [**Assignments**](#assignments) – <b>45%</b>
@@ -121,6 +124,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 * [**Project**](#project) – <b>55%</b>
 
   The grading of each part of the project will be determined when that part is published.
+  * Phase 1 – <b>15%</b>
 
 
 # App and Tools
