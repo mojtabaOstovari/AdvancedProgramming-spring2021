@@ -86,61 +86,12 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 
 <br>
 
-<!-- # Lectures
-* ## Lecture 1: ##
-    Sunday 1399/11/26
-    ```markdown
-    Course description
-    ```
-    * [Course Description Slide](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)
+# Additional content lectures
+| Lecturer | Date | Topics| video | 
+| :------: |:----:| :----:| :---: |
+| <a href="https://github.com/samssh"> AmirMohammad SadatShokouhi</a> | Tuseday 1399/12/14 | Sigleton, prototype, builder design patten |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1)|
 
 <br>
-
-* ## Lecture 2: ##
-    Tuesday 1399/11/28
-    ```markdown
-    Basic programming review
-    ```
-    * [Slide](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1)
-    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1)
-
-<br>
-
-* ## Lecture 3: ##
-    Sunday 1399/12/03
-    ```markdown
-    OOP
-    ```
-    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_03.mkv?forcedownload=1)
-
-<br>
-
-* ## Lecture 4: ##
-    Tuesday 1399/12/05
-    ```markdown
-    OOP
-    ```
-    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_04.mkv?forcedownload=1)
-
-<br>
-
-* ## Lecture 5: ##
-    Sunday 1399/12/10
-    ```markdown
-    OOP
-    ```
-    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_05.mkv?forcedownload=1)
-
-<br>
-
-* ## Lecture 6: ##
-    Tuesday 1399/12/12
-    ```markdown
-    OOP
-    ```
-    * [Video](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_06.mkv?forcedownload=1)
-
-<br> -->
 
 # Assignments 
 
