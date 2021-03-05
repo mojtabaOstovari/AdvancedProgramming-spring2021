@@ -88,9 +88,9 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 
 # Additional content lectures
 
-| Lecturer | Date | Topics| video | 
-| :------: |:----:| :----:| :---: |
-| [AmirMohammad SadatShokouhi](https://github.com/samssh) | Tuseday 1399/12/14 | Sigleton, prototype, builder design patten |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1)|
+| Lecturer | Date | Topics| video | codes |
+| :------: |:----:| :----:| :---: | :---: |
+| [AmirMohammad SadatShokouhi](https://github.com/samssh) | Tuseday 1399/12/14 | Sigleton, prototype, builder design patten |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1) | [✅](https://github.com/mojtabaOstovari/AdvancedProgramming-spring2021/tree/gh-pages/Code/Additional%20content)|
 
 <br>
 
@@ -98,7 +98,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 
 *  ### Homework 1 ###
   
-   The first series of exercises released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 question about basic syntax in java.
+   The first series of exercises released in [quera](https://quera.ir/course/assignments/26225/problems) with 9 questions about basic syntax in java.
 
 
 # Project
@@ -141,9 +141,8 @@ If you have any questions about the course, please send an email to <i>ap2021spr
 
 # Related Links
 
-* [**Google Drive**]()
-* [**Courseware**](https://cw.sharif.edu/)
-* [**Quera**](https://quera.ir/)
+* [**Courseware**](http://cw.sharif.edu/course/view.php?id=5571)
+* [**Quera**](https://quera.ir/course/7638/)
 
 
 
