@@ -89,7 +89,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 # Additional content lectures
 | Lecturer | Date | Topics| video | 
 | :------: |:----:| :----:| :---: |
-| <a href="https://github.com/samssh"> AmirMohammad SadatShokouhi</a> | Tuseday 1399/12/14 | Sigleton, prototype, builder design patten |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1)|
+| [AmirMohammad SadatShokouhi](https://github.com/samssh) | Tuseday 1399/12/14 | Sigleton, prototype, builder design patten |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1)|
 
 <br>
 
