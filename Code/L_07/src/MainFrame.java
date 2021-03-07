@@ -1,37 +1,31 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class MainFrame extends JFrame {
-    private ToolBar toolBar;
-    private TextPanel textPanel;
-    private JButton button;
 
     MainFrame() {
         super("Hello World");
-        this.setSize(600, 500);
         this.setVisible(true);
+        this.setSize(400, 300);
+        //frame.setMaximizedBounds(new Rectangle(800, 600));
         this.setResizable(false);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//                ImageIcon img = new ImageIcon("");
+//                frame.setIconImage(img.getImage());
 
         this.setLayout(new BorderLayout());
 
-        toolBar = new ToolBar();
-        this.add(toolBar, BorderLayout.NORTH);
+        JButton btn = new JButton("OK");
+        this.add(btn, BorderLayout.SOUTH);
 
-        textPanel = new TextPanel();
-        this.add(textPanel, BorderLayout.CENTER);
+        JTextArea textArea = new JTextArea();
+        this.add(textArea, BorderLayout.CENTER);
+        textArea.setForeground(Color.PINK);
+        textArea.setBackground(Color.CYAN);
 
-        button = new JButton("OK");
-        button.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                textPanel.f();
-            }
-        });
-
-        this.add(button, BorderLayout.SOUTH);
+        Font font = new Font("Segoe Script", Font.PLAIN, 20);
+        textArea.setFont(font);
+        textArea.setSelectedTextColor(Color.BLUE);
 
     }
 }
