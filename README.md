@@ -93,7 +93,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 | :------: |:----:| :----:| :---: | :---: |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Singleton, Prototype, Builder |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1) | [✅](https://github.com/mojtabaOstovari/AdvancedProgramming-spring2021/tree/gh-pages/Code/Additional%20content/2-14esf)|
 | [MohammadAli Olama](MAILTO:rastegar123456789@gmail.com) | Sunday 1399/12/17 | Build tool, Gradle | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/GRADLE.m4v?forcedownload=1) | ❌ |
-|
+
 
 <br>
 
