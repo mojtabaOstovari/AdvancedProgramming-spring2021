@@ -110,7 +110,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
   To see Project overview, you can click on this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing).
 
 * ### Phase 1 ###
-  The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing).
+  The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing). Video link of the briefing session in [here](https://mega.nz/file/V9UkCThY#bbB3dndrXfqkIUPzJV9jEggqZN1Tt_w3n8RqB9mLSgw)
 
 # Grading
 
