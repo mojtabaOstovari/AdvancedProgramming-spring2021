@@ -1,31 +1,56 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.Random;
 
 public class MainFrame extends JFrame {
-
+    ToolsBar toolsBar;
+    TextPanel textPanel;
+    JButton btn;
     MainFrame() {
         super("Hello World");
         this.setVisible(true);
         this.setSize(400, 300);
-        //frame.setMaximizedBounds(new Rectangle(800, 600));
         this.setResizable(false);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//                ImageIcon img = new ImageIcon("");
-//                frame.setIconImage(img.getImage());
 
         this.setLayout(new BorderLayout());
 
-        JButton btn = new JButton("OK");
+        textPanel = new TextPanel();
+        this.add(textPanel, BorderLayout.CENTER);
+
+        this.add(new TextPanel(), BorderLayout.EAST);
+
+        toolsBar = new ToolsBar();
+        this.add(toolsBar, BorderLayout.NORTH);
+        toolsBar.addListener(new Listener() {
+            @Override
+            public void listen(String string) {
+                textPanel.addToText(string);
+            }
+        });
+        toolsBar.addListener(new Listener() {
+            @Override
+            public void listen(String string) {
+                System.out.println(string);
+            }
+        });
+
+        btn = new JButton("OK");
         this.add(btn, BorderLayout.SOUTH);
+        btn.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                Random random = new Random();
+//                textArea.setBackground(new Color(
+//                        random.nextInt(256),
+//                        random.nextInt(256),
+//                        random.nextInt(256)));
+                //textArea.setText(textArea.getText() + "\n" + textArea.getText());
+            }
+        });
 
-        JTextArea textArea = new JTextArea();
-        this.add(textArea, BorderLayout.CENTER);
-        textArea.setForeground(Color.PINK);
-        textArea.setBackground(Color.CYAN);
-
-        Font font = new Font("Segoe Script", Font.PLAIN, 20);
-        textArea.setFont(font);
-        textArea.setSelectedTextColor(Color.BLUE);
 
     }
 }
