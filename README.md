@@ -83,11 +83,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 | Lecture 4 | Tuesday 1399/12/05 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_04.mkv?forcedownload=1)|
 | Lecture 5 | Sunday 1399/12/10 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_05.mkv?forcedownload=1) |
 | Lecture 6 | Tuesday 1399/12/12 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_06.mkv?forcedownload=1) |
-<<<<<<< HEAD
-|
-=======
 | Lecture 7 | Sunday 1399/12/17 | Graphic | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_07.mkv?forcedownload=1) |
->>>>>>> 698015cc0d1e1d0682e6d82834bff0380b482b92
 
 <br>
 
