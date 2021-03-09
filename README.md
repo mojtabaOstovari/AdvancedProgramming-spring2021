@@ -94,7 +94,6 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Singleton, Prototype, Builder |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1) | [✅](https://github.com/mojtabaOstovari/AdvancedProgramming-spring2021/tree/gh-pages/Code/Additional%20content/2-14esf)|
 | [MohammadAli Olama](MAILTO:rastegar123456789@gmail.com) | Sunday 1399/12/17 | Build tool, Gradle | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/GRADLE.m4v?forcedownload=1) | ❌ |
 
-
 <br>
 
 # Assignments 
@@ -110,7 +109,7 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
   To see Project overview, you can click on this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing).
 
 * ### Phase 1 ###
-  The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing). Video link of the briefing session in [here](https://mega.nz/file/V9UkCThY#bbB3dndrXfqkIUPzJV9jEggqZN1Tt_w3n8RqB9mLSgw)
+  The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing). video link of the briefing session in [here](https://mega.nz/file/V9UkCThY#bbB3dndrXfqkIUPzJV9jEggqZN1Tt_w3n8RqB9mLSgw).
 
 # Grading
 
