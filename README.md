@@ -77,13 +77,14 @@ This course introduces advanced computer programming using the Java programming 
 
 | Lecture number | Date | Topic | Slides | video | 
 | :------------: |:----:| :----:| :-----:| :---: |
-| Lecture 1      | Sunday 1399/11/26 | Course description |  [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)| ❌ |
-Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1) |
+| Lecture 1 | Sunday 1399/11/26 | Course description |  [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)| ❌ |
+| Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1) |
 | Lecture 3 | Sunday 1399/12/03 | OOP | ❌ |  [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_03.mkv?forcedownload=1) |
 | Lecture 4 | Tuesday 1399/12/05 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_04.mkv?forcedownload=1)|
 | Lecture 5 | Sunday 1399/12/10 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_05.mkv?forcedownload=1) |
 | Lecture 6 | Tuesday 1399/12/12 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_06.mkv?forcedownload=1) |
 | Lecture 7 | Sunday 1399/12/17 | Graphic | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_07.mkv?forcedownload=1) |
+| Lecture 8 | Tuesday 1399/12/19 | Graphic | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_08.mkv?forcedownload=1) |
 
 <br>
 
@@ -93,8 +94,14 @@ Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.shar
 | :------: |:----:| :----:| :---: | :---: |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Singleton, Prototype, Builder |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1) | [✅](https://github.com/mojtabaOstovari/AdvancedProgramming-spring2021/tree/gh-pages/Code/Additional%20content/2-14esf)|
 | [MohammadAli Olama](MAILTO:rastegar123456789@gmail.com) | Sunday 1399/12/17 | Build tool, Gradle | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/GRADLE.m4v?forcedownload=1) | ❌ |
+<<<<<<< HEAD
 | [MohammadMehdi Zare](MAILTO:zaremohammadmehdi2001@gmail.com) | wednesday 1399/12/20 | Git, Github | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/learn%20git%20and%20github.m4v?forcedownload=1) | ❌ |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Json, Gson |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-class-21esf.m4v?forcedownload=1) | ❌ |
+=======
+| [faradars](https://faradars.org/courses/fvgit9609-git-github-gitlab) | - | Git | [✅](https://faradars.org/courses/fvgit9609-git-github-gitlab) | ❌ |
+| [Bro Code](https://www.youtube.com/watch?v=Kmgo00avvEw) | - | Graphic | [✅](https://www.youtube.com/watch?v=Kmgo00avvEw) | ❌ |
+
+>>>>>>> 22a32532d38112f21bc4a87d3311fcad77433266
 
 <br>
 
