@@ -90,6 +90,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Additional content lectures
 
+
 | Lecturer | Date | Topics| video | codes |
 | :------: |:----:| :----:| :---: | :---: |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Singleton, Prototype, Builder |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1) | [✅](https://github.com/mojtabaOstovari/AdvancedProgramming-spring2021/tree/gh-pages/Code/Additional%20content/2-14esf)|
@@ -98,7 +99,7 @@ This course introduces advanced computer programming using the Java programming 
 | [Bro Code](https://www.youtube.com/watch?v=Kmgo00avvEw) | - | Graphic | [✅](https://www.youtube.com/watch?v=Kmgo00avvEw) | ❌ |
 | [MohammadMehdi Zare](MAILTO:zaremohammadmehdi2001@gmail.com) | wednesday 1399/12/20 | Git, Github | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/learn%20git%20and%20github.m4v?forcedownload=1) | ❌ |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Json, Gson |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-class-21esf.m4v?forcedownload=1) | ❌ |
-
+| [MohammadAli Olama](MAILTO:rastegar123456789@gmail.com) | Sunday 1399/12/24 | Json, Jackson | [✅](https://drive.google.com/file/d/1GObznlJdRA9Wnrer_8U0TVqQKqQTTB2a/view?usp=sharing) | ❌ |
 
 <br>
 
@@ -115,7 +116,7 @@ This course introduces advanced computer programming using the Java programming 
   To see Project overview, you can click on this [link](https://docs.google.com/document/d/1Mq2SIUA4pe6WKRIpMJDTTtlzSeix7PYG85UjO3VaLNc/edit?usp=sharing).
 
 * ### Phase 1 ###
-  The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing). video link of the briefing session in [here](https://mega.nz/file/V9UkCThY#bbB3dndrXfqkIUPzJV9jEggqZN1Tt_w3n8RqB9mLSgw).
+  The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing). video link of the briefing session in [here](https://drive.google.com/file/d/1SGwJ9dAWlWvRp99R0KWzokT84fvJBG7f/view?usp=sharing).
 
 # Grading
 
@@ -124,10 +125,9 @@ This course introduces advanced computer programming using the Java programming 
    There will be 5 homework series. The grading of each series of exercises will be as follows.
 
    * Homework 1 – <b>5%</b>
-   * Homework 2 – <b>10%</b>
+   * Homework 2 – <b>15%</b>
    * Homework 3 – <b>10%</b>
-   * Homework 4 – <b>10%</b>
-   * Homework 5 – <b>10%</b>
+   * Homework 4 – <b>15%</b>
 
 * [**Project**](#project) – <b>55%</b>
 
