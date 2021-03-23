@@ -100,6 +100,7 @@ This course introduces advanced computer programming using the Java programming 
 | [MohammadMehdi Zare](MAILTO:zaremohammadmehdi2001@gmail.com) | wednesday 1399/12/20 | Git, Github | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/learn%20git%20and%20github.m4v?forcedownload=1) | ❌ |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Json, Gson |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-class-21esf.m4v?forcedownload=1) | ❌ |
 | [MohammadAli Olama](MAILTO:rastegar123456789@gmail.com) | Sunday 1399/12/24 | Json, Jackson | [✅](https://drive.google.com/file/d/1GObznlJdRA9Wnrer_8U0TVqQKqQTTB2a/view?usp=sharing) | ❌ |
+|samin nouripour | Tuesday 1400/1/3 | Graphic, Swing | [✅](http://cw.sharif.edu/pluginfile.php/256410/mod_folder/content/0/video.zip?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/256410/mod_folder/content/0/code.zip?forcedownload=1)
 
 <br>
 
