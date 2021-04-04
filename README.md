@@ -85,6 +85,7 @@ This course introduces advanced computer programming using the Java programming 
 | Lecture 6 | Tuesday 1399/12/12 | OOP | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_06.mkv?forcedownload=1) |
 | Lecture 7 | Sunday 1399/12/17 | Graphic | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_07.mkv?forcedownload=1) |
 | Lecture 8 | Tuesday 1399/12/19 | Graphic | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_08.mkv?forcedownload=1) |
+| Lecture 9 | Sunday 1399/12/15 | Enum | ❌ | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_09.mkv?forcedownload=1) |
 
 <br>
 
