@@ -75,7 +75,7 @@ This course introduces advanced computer programming using the Java programming 
 
 # Lectures
 
-| Lecture number | Date | Topic | Slides | video | 
+| Lecture number | Date | Topic | Slides | Video | 
 | :------------: |:----:| :----:| :-----:| :---: |
 | Lecture 1 | Sunday 1399/11/26 | Course description |  [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/course_description.pdf?forcedownload=1)| - |
 | Lecture 2 | Tuesday 1399/11/28 | Basic programming review | [✅](http://cw.sharif.edu/pluginfile.php/242079/mod_folder/content/0/lecture_02.pdf?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_02.mkv?forcedownload=1) |
