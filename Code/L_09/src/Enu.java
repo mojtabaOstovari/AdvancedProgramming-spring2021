@@ -1,4 +1,4 @@
-public class App {
+class App {
     public static void main(String[] args) {
 
         Level level = Level.MEDIUM;
@@ -11,8 +11,6 @@ public class App {
         } else {
             System.out.println(level);
         }
-
-
     }
 }
 
