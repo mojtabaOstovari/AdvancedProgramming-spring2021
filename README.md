@@ -87,6 +87,8 @@ This course introduces advanced computer programming using the Java programming 
 | Lecture 8 | Tuesday 1399/12/19 | Graphic | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_08.mkv?forcedownload=1) |
 | Lecture 9 | Sunday 1400/1/15 | Enum, Generic | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_09.mkv?forcedownload=1) |
 | Lecture 10 | Tuesday 1400/1/17 | Generic | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_10.mkv?forcedownload=1) |
+| Lecture 11 | Sunday 1400/1/22 | Generic class | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_11.mkv?forcedownload=1) |
+| Lecture 12 | Tuesday 1400/1/24 | clean code | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_12.mkv?forcedownload=1) |
 
 <br>
 
