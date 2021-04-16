@@ -128,11 +128,12 @@ This course introduces advanced computer programming using the Java programming 
 * ### Phase 1 ###
   The first phase of the project can be found at this [link](https://docs.google.com/document/d/1UWhMRLWNZYz2q8zjFOO2SjckoXNJieMiTXa-hg-5S0A/edit?usp=sharing). video link of the briefing session in [here](https://drive.google.com/file/d/1SGwJ9dAWlWvRp99R0KWzokT84fvJBG7f/view?usp=sharing).
 
+* ### Phase 2 ###
+  The second phase of the project can be found at this [link](https://docs.google.com/document/d/1UQxL6pFeSqfVrr6XyohalU0DUjDxVeqAoJHOSuUZqog/edit?usp=sharing).
+
 # Grading
 
 * [**Assignments**](#assignments) – <b>45%</b>
-  
-   There will be 5 homework series. The grading of each series of exercises will be as follows.
 
    * Homework 1 – <b>5%</b>
    * Homework 2 – <b>15%</b>
@@ -140,9 +141,9 @@ This course introduces advanced computer programming using the Java programming 
    * Homework 4 – <b>15%</b>
 
 * [**Project**](#project) – <b>55%</b>
-
-  The grading of each part of the project will be determined when that part is published.
   * Phase 1 – <b>15%</b>
+  * Phase 2 – <b>17.5%</b>
+  * Phase 3 – <b>22.5%</b>
 
 
 # App and Tools
