@@ -59,6 +59,7 @@ This course introduces advanced computer programming using the Java programming 
   <td><center><img src=".\Images\Rahmani.jpg" border='0' alt=""  height='125' width='125'/></center></td>
   <td><center><img src=".\Images\Nima.jpg" border='0' alt=""  height='125' width='125'/></center></td>
   <td><center><font size="+4">🔒</font></td>
+
   <td><center><font size="+4">🔒</font></td>
   </tr>
   <tr>
