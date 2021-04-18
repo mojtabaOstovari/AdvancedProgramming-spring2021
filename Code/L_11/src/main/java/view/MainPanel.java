@@ -1,7 +1,5 @@
 package view;
 
-import authentication.view.LoginView;
-import authentication.view.RegistrationView;
 import interfaces.Listener;
 
 import javax.swing.*;

@@ -1,8 +1,10 @@
-package authentication.view;
+package apps.authentication.view;
 
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class RegistrationView extends JPanel {
     JTextField nameField = new JTextField(10);
@@ -87,4 +89,5 @@ public class RegistrationView extends JPanel {
         this.add(registerBtn, gc);
 
     }
+
 }

@@ -1,4 +1,4 @@
-package authentication.view;
+package apps.authentication.view;
 
 import javax.swing.*;
 import javax.swing.border.Border;

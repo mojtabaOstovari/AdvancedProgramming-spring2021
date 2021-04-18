@@ -1,11 +1,11 @@
 package view;
 
-import authentication.view.LoginView;
-import authentication.view.RegistrationView;
+import apps.authentication.view.LoginView;
+import apps.authentication.view.RegistrationView;
 import interfaces.Listener;
 
 public class CenterToToolbarListener implements Listener {
-    CenterPanel centerPanel;
+    private CenterPanel centerPanel;
     CenterToToolbarListener(CenterPanel centerPanel) {
         this.centerPanel = centerPanel;
     }
