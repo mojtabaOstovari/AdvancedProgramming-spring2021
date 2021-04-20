@@ -1,6 +1,7 @@
-package controller;
+package db;
 
 import apps.authentication.model.User;
+
 import java.util.LinkedList;
 
 public class UserDB implements DBSet<User> {

@@ -1,6 +1,6 @@
 package view;
 
-import interfaces.Listener;
+import listener.StringListener;
 
 import javax.swing.*;
 import java.awt.*;
@@ -28,9 +28,9 @@ public class MainPanel extends JPanel {
         bottomPanel = new BottomPanel();
         this.add(bottomPanel, BorderLayout.SOUTH);
 
-        toolsBar.addListener(new Listener() {
+        toolsBar.addListener(new StringListener() {
             @Override
-            public void listen(String string) {
+            public void stringEventOccurred(String string) {
                 if (string.equals("registration")){
                     bottomPanel.setText("Join us!");
                 }
@@ -40,7 +40,7 @@ public class MainPanel extends JPanel {
             }
         });
 
-        toolsBar.addListener(new CenterToToolbarListener(centerPanel));
+        toolsBar.addListener(new CenterToToolbarStringListener(centerPanel));
     }
 
 }

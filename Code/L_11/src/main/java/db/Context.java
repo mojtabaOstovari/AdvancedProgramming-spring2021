@@ -1,4 +1,4 @@
-package controller;
+package db;
 
 import apps.authentication.model.Profile;
 import apps.authentication.model.User;

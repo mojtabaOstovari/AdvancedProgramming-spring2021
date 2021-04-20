@@ -1,6 +1,7 @@
-package controller;
+package db;
 
 import apps.authentication.model.Profile;
+
 import java.util.LinkedList;
 
 public class ProfileDB implements DBSet<Profile> {

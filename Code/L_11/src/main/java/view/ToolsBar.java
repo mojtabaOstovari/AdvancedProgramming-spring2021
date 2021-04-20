@@ -1,6 +1,6 @@
 package view;
 
-import interfaces.Listener;
+import listener.StringListener;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -10,7 +10,7 @@ import java.util.LinkedList;
 public class ToolsBar extends JPanel implements ActionListener {
     private JButton registrationBtn;
     private JButton loginBtn;
-    private LinkedList<Listener> listeners = new LinkedList<>();
+    private LinkedList<StringListener> stringListeners = new LinkedList<>();
 
     ToolsBar() {
         this.setBackground(Color.GRAY);
@@ -27,18 +27,18 @@ public class ToolsBar extends JPanel implements ActionListener {
         loginBtn.addActionListener(this);
     }
 
-    public void addListener(Listener listener) {
-        listeners.add(listener);
+    public void addListener(StringListener stringListener) {
+        stringListeners.add(stringListener);
     }
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        for (Listener listener : listeners) {
+        for (StringListener stringListener : stringListeners) {
             if (registrationBtn == (JButton)e.getSource()){
-                listener.listen("registration");
+                stringListener.stringEventOccurred("registration");
             }
             if (loginBtn == (JButton)e.getSource()) {
-                listener.listen("login");
+                stringListener.stringEventOccurred("login");
             }
         }
     }

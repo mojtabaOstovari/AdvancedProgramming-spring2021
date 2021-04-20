@@ -1,18 +1,23 @@
 package apps.authentication.view;
 
+import apps.authentication.event.RegistrationFormEvent;
+import listener.FormListener;
+
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class RegistrationView extends JPanel {
-    JTextField nameField = new JTextField(10);
-    JTextField emailField = new JTextField(10);
-    JTextField password1Field = new JTextField(10);
-    JTextField password2Field = new JTextField(10);
+public class RegistrationView extends JPanel implements ActionListener {
+    private JTextField nameField = new JTextField(10);
+    private JTextField emailField = new JTextField(10);
+    private JTextField password1Field = new JTextField(10);
+    private JTextField password2Field = new JTextField(10);
 
-    JButton registerBtn = new JButton("register");
+    private JButton registerBtn = new JButton("register");
+
+    private FormListener formListener;
 
     public RegistrationView() {
         this.setBackground(Color.orange);
@@ -88,6 +93,43 @@ public class RegistrationView extends JPanel {
         gc.anchor = GridBagConstraints.FIRST_LINE_START;
         this.add(registerBtn, gc);
 
+        registerBtn.addActionListener(this);
+
     }
 
+    public String getNameField() {
+        return nameField.getText();
+    }
+
+    public String getEmailField() {
+        return emailField.getText();
+    }
+
+    public String getPassword1Field() {
+        return password1Field.getText();
+    }
+
+    public String getPassword2Field() {
+        return password2Field.getText();
+    }
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        if (registerBtn == (JButton)e.getSource()){
+
+            RegistrationFormEvent registrationFormEvent =
+                    new RegistrationFormEvent(this,
+                            getName(),
+                            getEmailField(),
+                            getPassword1Field(),
+                            getPassword2Field());
+
+            formListener.eventOccurred(registrationFormEvent);
+
+        }
+    }
+
+    public void setFormListener(FormListener formListener) {
+        this.formListener = formListener;
+    }
 }
