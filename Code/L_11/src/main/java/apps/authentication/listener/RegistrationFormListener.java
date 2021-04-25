@@ -11,5 +11,6 @@ public class RegistrationFormListener implements FormListener {
     public void eventOccurred(RegistrationFormEvent formEvent) {
 
         controller.register(formEvent);
+
     }
 }

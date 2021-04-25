@@ -1,0 +1,4 @@
+resourcesPath=src\main\resources\
+imagesConfigPath=src\main\resources\config\imageFile
+frameConfigPath=src\main\resources\config\FrameFile
+themePath=src\main\resources\theme
