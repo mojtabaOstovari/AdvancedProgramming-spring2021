@@ -97,6 +97,7 @@ This course introduces advanced computer programming using the Java programming 
 | Lecture 14 | Tuesday 1400/1/31 | clean code | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_14.mkv?forcedownload=1) |
 | Lecture 15 | Sunday 1400/2/5 | clean code | - | [✅](https://mega.nz/file/eA5kCZpK#DLDVlATo_jbe256hILLIT5pEm5WjIa-J1YK6RdMKW8k) |
 | Lecture 16 | Tuesday 1400/2/7 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_16.mkv?forcedownload=1) |
+| Lecture 17 | Sunday 1400/2/12 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_17.mkv?forcedownload=1) |
 
 <br>
 
