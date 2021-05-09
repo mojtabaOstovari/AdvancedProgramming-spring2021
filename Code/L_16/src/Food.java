@@ -1,3 +1,5 @@
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class Food {
     public static void main(String[] args) {
         A a = new A();
@@ -16,7 +18,11 @@ public class Food {
         new Thread(new Runnable() {
             @Override
             public void run() {
-                a.eatPizza();
+                try {
+                    a.eatPizza();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
         }).start();
     }
@@ -24,19 +30,57 @@ public class Food {
 
 
 class A{
-    volatile boolean pizzaAvailable = false;
+    private boolean pizzaAvailable = false;
+    private final Object ali = new Object();
+    Integer i = 0;
+    AtomicInteger atomicI;
 
     void makePizza(){
-        pizzaAvailable = true;
-    }
-
-    void eatPizza(){
-        while (!pizzaAvailable){
-
+        synchronized (ali){
+            pizzaAvailable = true;
+            ali.notifyAll();
         }
-        System.out.println("I'm eating...");
-        pizzaAvailable = false;
+    }
+
+    void eatPizza() throws InterruptedException {
+        synchronized (ali) {
+            while (!pizzaAvailable) {
+                ali.wait();
+            }
+            System.out.println("I'm eating...");
+            pizzaAvailable = false;
+        }
+    }
+
+    void increaseI(){
+        synchronized (i){
+            i++;
+        }
+    }
+
+    void f() {
+        synchronized (i){
+            if (this.i == 5) {
+                this.i = 0;
+            }
+        }
+
+        atomicI.compareAndExchange(5, 0);
+        int a = atomicI.addAndGet(7);
 
     }
+
+    synchronized void outer(){
+        inner();
+    }
+
+    synchronized void inner(){
+        innerInner();
+    }
+
+    synchronized void innerInner(){
+        i++;
+    }
+
 }
 
