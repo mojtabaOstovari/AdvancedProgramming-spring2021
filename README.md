@@ -99,6 +99,8 @@ This course introduces advanced computer programming using the Java programming 
 | Lecture 16 | Tuesday 1400/2/7 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_16.mkv?forcedownload=1) |
 | Lecture 17 | Sunday 1400/2/12 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_17.mkv?forcedownload=1) |
 | Lecture 18 | Sunday 1400/2/19 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_18.mkv?forcedownload=1) |
+| Lecture 19 | Sunday 1400/2/21 | io-streams | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_19.mkv?forcedownload=1) |
+
 <br>
 
 # Additional content lectures
