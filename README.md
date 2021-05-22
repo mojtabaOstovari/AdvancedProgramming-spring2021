@@ -132,6 +132,10 @@ This course introduces advanced computer programming using the Java programming 
 
    The second series of exercises released [here](https://docs.google.com/document/d/1w2cBKuWOrp9M_IFAiL9TF0k1WNgAyjZmgkSENDEn3xE/edit?usp=sharing).
 
+*  ### Homework 3 ###
+  
+   The third series of exercises released in [quera](https://quera.ir/course/assignments/29542/problems) with 2 questions about concurrency in java.
+
 # Project
 
 * ### Project overview ###
