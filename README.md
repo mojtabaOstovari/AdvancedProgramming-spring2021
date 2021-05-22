@@ -58,14 +58,10 @@ This course introduces advanced computer programming using the Java programming 
   <tr>
   <td><center><img src=".\Images\Rahmani.jpg" border='0' alt=""  height='125' width='125'/></center></td>
   <td><center><img src=".\Images\Nima.jpg" border='0' alt=""  height='125' width='125'/></center></td>
-  <td><center><font size="+6">🔒</font></center></td>
-  <td><center><font size="+8">🔒</font></center></td>
   </tr>
   <tr>
   <td><center><a href="">Hossein Rahmani</a></center></td>
   <td><center><a href="">Nima Khodaveisi</a></center></td>
-  <td><center><big>❓</big></center></td>
-  <td><center><big>❓</big></center></td>
   </tr>
 </table>
 
@@ -99,7 +95,9 @@ This course introduces advanced computer programming using the Java programming 
 | Lecture 16 | Tuesday 1400/2/7 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_16.mkv?forcedownload=1) |
 | Lecture 17 | Sunday 1400/2/12 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_17.mkv?forcedownload=1) |
 | Lecture 18 | Sunday 1400/2/19 | Concurrency | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_18.mkv?forcedownload=1) |
-
+| Lecture 19 | Tuesday 1400/2/21 | io-stream | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_19.mkv?forcedownload=1) |
+| Lecture 20 | Sunday 1400/2/26 | Lambda Expression | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_20.mkv?forcedownload=1) |
+| Lecture 21 | Tuesday 1400/2/28 | stream api | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_21.mkv?forcedownload=1) |
 
 <br>
 
