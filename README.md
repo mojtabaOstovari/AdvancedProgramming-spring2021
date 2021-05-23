@@ -117,6 +117,7 @@ This course introduces advanced computer programming using the Java programming 
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1400/01/12 | Graphic, Time in graphic |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-class-12far.mp4?forcedownload=1) | [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-code-12far.zip?forcedownload=1) |
 | [Nima Alizadeh](https://github.com/nima7920) | - | Graphic case study | ❌ | [✅](https://github.com/nima7920/GraphicsCaseStudy)
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Friday 1400/02/03 | javafx, clean code |  [✅](https://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/TA-class-3ord.mkv?forcedownload=1) | ❌ |
+| [AmirMohammad SadatShokouhi](https://github.com/samssh) | Friday 1400/02/24 | Concurrency	 |  [✅(Telegram)](https://t.me/AP_Stuff/64) | ❌ |
 
 <br>
 
