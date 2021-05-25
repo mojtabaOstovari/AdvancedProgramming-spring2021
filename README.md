@@ -98,8 +98,8 @@ This course introduces advanced computer programming using the Java programming 
 | Lecture 19 | Tuesday 1400/2/21 | io-stream | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_19.mkv?forcedownload=1) |
 | Lecture 20 | Sunday 1400/2/26 | Lambda Expression | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_20.mkv?forcedownload=1) |
 | Lecture 21 | Tuesday 1400/2/28 | stream api | - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_21.mkv?forcedownload=1) |
-| Lecture 20 | Sunday 1400/3/2 | Network TCP | - | - |
-| Lecture 21 | Tuesday 1400/3/4 | Network UDP| - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_23.mkv?forcedownload=1) |
+| Lecture 22 | Sunday 1400/3/2 | Network TCP | - | - |
+| Lecture 23 | Tuesday 1400/3/4 | Network UDP| - | [✅](http://cw.sharif.edu/pluginfile.php/242074/mod_folder/content/0/L_23.mkv?forcedownload=1) |
 
 <br>
 
