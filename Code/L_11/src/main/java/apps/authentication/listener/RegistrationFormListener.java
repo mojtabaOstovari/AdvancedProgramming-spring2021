@@ -10,7 +10,11 @@ public class RegistrationFormListener implements FormListener {
     @Override
     public void eventOccurred(RegistrationFormEvent formEvent) {
 
+        //
         controller.register(formEvent);
+        //
+
+
 
     }
 }

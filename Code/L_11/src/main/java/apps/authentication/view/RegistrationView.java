@@ -116,7 +116,6 @@ public class RegistrationView extends JPanel implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         if (registerBtn == (JButton)e.getSource()){
-
             RegistrationFormEvent registrationFormEvent =
                     new RegistrationFormEvent(this,
                             getName(),
@@ -125,7 +124,6 @@ public class RegistrationView extends JPanel implements ActionListener {
                             getPassword2Field());
 
             formListener.eventOccurred(registrationFormEvent);
-
         }
     }
 
