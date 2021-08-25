@@ -111,7 +111,6 @@ This course introduces advanced computer programming using the Java programming 
 | Lecturer | Date | Topics| video | codes |
 | :------: |:----:| :----:| :---: | :---: |
 | [AmirMohammad SadatShokouhi](https://github.com/samssh) | Thursday 1399/12/14 | Singleton, Prototype, Builder |  [✅](http://cw.sharif.edu/pluginfile.php/251415/mod_folder/content/0/ta-calass-14esf.mp4?forcedownload=1) | [✅](https://github.com/mojtabaOstovari/AdvancedProgramming-spring2021/tree/gh-pages/Code/Additional%20content/2-14esf)|
-| [MohammadAli Olama](MAILTO:rastegar123456789@gmail.com) | Sunday 1399/12/17 | Build tool, Gradle | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/GRADLE.m4v?forcedownload=1) | ❌ |
 | [faradars](https://faradars.org/courses/fvgit9609-git-github-gitlab) | - | Git | [✅](https://faradars.org/courses/fvgit9609-git-github-gitlab) | ❌ |
 | [Bro Code](https://www.youtube.com/watch?v=Kmgo00avvEw) | - | Graphic | [✅](https://www.youtube.com/watch?v=Kmgo00avvEw) | ❌ |
 | [MohammadMehdi Zare](MAILTO:zaremohammadmehdi2001@gmail.com) | wednesday 1399/12/20 | Git, Github | [✅](http://cw.sharif.edu/pluginfile.php/252095/mod_folder/content/0/learn%20git%20and%20github.m4v?forcedownload=1) | ❌ |
